@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    top: 0;
+}
+
+.text-gradient {
+    background: linear-gradient(50deg, #fb3c00, #ffb800);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.normal-text {
+    font-weight: normal;
+}
+
+.shadow-warning {
+    box-shadow: 0 0 3rem 0 rgb(255 179 14 / 30%) !important;
+}
+
+.input-inside-icon {
+    position: relative;
+}
+
+.input-inside-icon .input-box {
+    padding-left: 2.8rem;
+    vertical-align: middle;
+}
+
+.input-inside-icon .input-box-icon {
+    position: absolute;
+    top: 50%;
+    left: 1rem;
+    color: #EEEEEE;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
