@@ -35,3 +35,41 @@
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+
+
+.banner-section {
+    background-color: #FFB30E;
+    height: auto;
+    padding: 20px 0;
+}
+
+.location-part {
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px 10px;
+
+}
+
+
+.button-delivery {
+    margin-left: 15px;
+    margin-top: 10px;
+
+}
+
+.button-pickup {
+    margin-left: 15px;
+    margin-top: 10px;
+    background-color: rgba(233, 122, 146, 0.267);
+
+}
+
+.form-2 input {
+    width: 350px;
+
+}
+
+
+.heading-style {
+    font-size: 50px;
+}
