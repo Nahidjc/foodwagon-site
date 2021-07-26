@@ -43,12 +43,7 @@
     padding: 20px 0;
 }
 
-.location-part {
-    background-color: white;
-    border-radius: 15px;
-    padding: 30px 10px;
 
-}
 
 
 .button-delivery {
@@ -64,12 +59,15 @@
 
 }
 
-.form-2 input {
-    width: 350px;
 
-}
 
 
 .heading-style {
     font-size: 50px;
+}
+
+
+
+.active-button:active {
+    background-color: rgb(231, 99, 58);
 }
